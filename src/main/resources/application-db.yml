@@ -1,0 +1,7 @@
+#spring原始数据源
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: mqs111
+    url: jdbc:mysql:///erp?characterEncoding=utf-8&useSSL=false
